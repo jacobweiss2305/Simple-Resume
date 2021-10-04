@@ -26,9 +26,13 @@ Sample 5    █████████░░░░░░░░░░░░░�
 - Sample Sentence 1
 - Sample Sentence 2
 
+---
+
 ## Organizations
 
 - **Sample organization** - Explanation
+
+---
 
 ## Education
 
