@@ -1,4 +1,10 @@
-# Name - Resume
+## Details
+
+|Q|A|
+|---|---|
+| Name | Your Name |
+| Age | Your Age |
+| Place | Your Place |
 
 ---
 
@@ -65,3 +71,5 @@ Language 3      ███████████░░░░░░░░░░�
 ---
 
 ## Made by [FayasNoushad](https://github.com/FayasNoushad)
+
+---
