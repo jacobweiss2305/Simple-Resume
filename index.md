@@ -27,7 +27,7 @@ Sample 5    █████████░░░░░░░░░░░░░�
 
 ## Work Experience
 
-### Sample Company</h4>
+### Sample Company
 
 - Sample Sentence 1
 - Sample Sentence 2
